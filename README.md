@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rendika7
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python, and Front & Back End Developer
+- 🌱 I’m currently learning Python, Front Development, and UI/UX Design
 - 💞️ I’m looking to collaborate on some project
 - 📫 How to reach me @rendika__07
 
