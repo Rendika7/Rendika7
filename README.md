@@ -1,3 +1,4 @@
+```python
 class DataScientist:
     def __init__(self, full_name="Rendika Nurhartanto Suharto", nickname="Rendika", role="Data Scientist", languages_spoken=["id_ID", "en_US"], university="Telkom University Surabaya", status="Undergraduate Student"):
         self.full_name = full_name
@@ -19,6 +20,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+```
 
 <!---
 Rendika7/Rendika7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
