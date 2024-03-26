@@ -36,12 +36,14 @@ if __name__ == "__main__":
     main()
 ```
 --- --- --- --- ---
+# 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rendika7&show_icons=true&theme=bear" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Rendika7&theme=dark&hide_border=true" width="400">
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rendika7&theme=onedark&column=10&margin-w=15&margin-h=15&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 Rendika7/Rendika7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
