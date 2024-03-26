@@ -5,6 +5,13 @@
   </picture>
 </a>
 
+# Hi 👋 I am Rendika Nurhartanto Suharto! 
+I am a Bachelor of Data Science student at [Telkom University Surabaya](https://surabaya.telkomuniversity.ac.id/), where I focus on data exploration and analysis. As someone involved in data science, I have a particular interest in developing data-driven solutions and applying data analysis techniques to generate valuable insights. Especially in the fields of Machine Learning and Deep Neural Networks
+- 🏡 Visit my [LinkedIn Profile](https://www.linkedin.com/in/rendika-nurhartanto-s-882431218/) for more information and to get in touch.
+- ✍️ Follow me on [Instagram](https://www.instagram.com/rendika__07/?hl=en).
+
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
 ```python
 class DataScientist:
     def __init__(self, full_name="Rendika Nurhartanto Suharto", nickname="Rendika", role="Data Scientist", languages_spoken=["id_ID", "en_US"], university="Telkom University Surabaya", status="Undergraduate Student"):
@@ -28,15 +35,7 @@ def main():
 if __name__ == "__main__":
     main()
 ```
-
-
-# Hi 👋 I am Rendika Nurhartanto Suharto! 
-I am a software engineer at [Elucidata](https://elucidata.io/), where I specialize in solving complex biomedical data problems using cutting-edge technology and tools.
-
-- 🏡 Visit my [LinkedIn Profile](https://www.linkedin.com/in/rendika-nurhartanto-s-882431218/) for more information and to get in touch.
-- ✍️ Follow me on [Instagram](https://www.instagram.com/rendika__07/?hl=en).
-
----
+--- --- --- --- ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rendika7&show_icons=true&theme=bear" width="400">
