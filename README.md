@@ -22,6 +22,21 @@ if __name__ == "__main__":
     main()
 ```
 
+
+# Hi 👋 I am Rendika Nurhartanto Suharto! 
+I am a software engineer at [Elucidata](https://elucidata.io/), where I specialize in solving complex biomedical data problems using cutting-edge technology and tools.
+
+- 🏡 Visit my [LinkedIn Profile](https://www.linkedin.com/in/rendika-nurhartanto-s-882431218/) for more information and to get in touch.
+- ✍️ Follow me on [Instagram](https://www.instagram.com/rendika__07/?hl=en).
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rendika7&show_icons=true&theme=bear" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rendika7&theme=dark&hide_border=true" width="400">
+</p>
+
+
 <!---
 Rendika7/Rendika7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
