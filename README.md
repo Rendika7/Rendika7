@@ -1,3 +1,10 @@
+<a href="https://github.com/Rendika7/Rendika7.git" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="Header Github.png">
+    <img alt="Impressive Profile READMEs Screenshot" src="Header Github.png">
+  </picture>
+</a>
+
 ```python
 class DataScientist:
     def __init__(self, full_name="Rendika Nurhartanto Suharto", nickname="Rendika", role="Data Scientist", languages_spoken=["id_ID", "en_US"], university="Telkom University Surabaya", status="Undergraduate Student"):
