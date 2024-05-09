@@ -41,9 +41,22 @@ if __name__ == "__main__":
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rendika7&show_icons=true&theme=bear" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Rendika7&theme=dark&hide_border=true" width="400">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rendika7&layout=compact&langs_count=6&theme=buefy"/>
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rendika7&theme=onedark&column=10&margin-w=15&margin-h=15&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!---
+## Github Statistic
+<p align="center">
+<a href="https://github.com/FahriPutra00/FahriPutra00">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FahriPutra00&layout=compact&langs_count=8&theme=buefy"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FahriPutra00&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FahriPutra00&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FahriPutra00&theme=algolia"/>
+</a>
+</p>
+--->
 
 <!---
 Rendika7/Rendika7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
