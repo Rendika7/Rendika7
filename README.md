@@ -40,7 +40,7 @@ if __name__ == "__main__":
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rendika7&show_icons=true&theme=bear" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rendika7&theme=dark&hide_border=true" width="400">
+  <!--- <img src="https://github-readme-streak-stats.herokuapp.com?user=Rendika7&theme=dark&hide_border=true" width="400"> --->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rendika7&layout=compact&langs_count=6&theme=buefy"/>
 </p>
 
